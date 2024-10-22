@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HuiXiang0
-- 👀 I’m interested in C/embedded system/Backend development
+- 👀 I’m interested in Digital Design/RTL Design
 - 🌱 I’m currently learning Electrical and Electronic Engineering 
 - 📫 Anything you want to talk with me, Please email me <hui.xiang2358@outlook.com>
 
